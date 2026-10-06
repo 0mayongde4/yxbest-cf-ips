@@ -75,41 +75,41 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-collec
 
 ### 独立 API
 
-- **每 3 小时更新，按延迟排序**。
+- **每 3 小时更新，按延迟排序。**
 - **国家区域、旗帜标注。**
-- **选任一档即可，多选重复，没有必要**。
+- **选任一档即可，多选重复，没有必要。**  
 
-1. best-cf-ip-scanned-top20 包含 20 个优选 IP。
+---
+
+- best-cf-ip-scanned-top20 包含 20 个优选 IP。
 
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top20.txt
 ```
 
-2. best-cf-ip-scanned-top50 包含 50 个优选 IP，向上包含。
+- best-cf-ip-scanned-top50 包含 50 个优选 IP，向上包含。
 
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top50.txt
 ```
 
-3. best-cf-ip-scanned-top100 包含 100 个优选 IP，向上包含。
+- best-cf-ip-scanned-top100 包含 100 个优选 IP，向上包含。
 
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top100.txt
 ```
 
-4. best-cf-ip-scanned-top200 包含 200 个优选 IP，向上包含。
+- best-cf-ip-scanned-top200 包含 200 个优选 IP，向上包含。
 
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top200.txt
 ```
 
-5. best-cf-ip-scanned-top400 包含 400 个优选 IP，向上包含。
+- best-cf-ip-scanned-top400 包含 400 个优选 IP，向上包含。
 
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top400.txt
 ```
-
----
 
 ## API 教程演示
 
