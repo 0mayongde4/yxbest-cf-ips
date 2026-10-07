@@ -66,7 +66,7 @@
 
 ### 聚合 API
 
-- **每 3 小时更新**。
+- **每 6 小时更新**。
 - 为多个公开的 Cloudflare 优选 IP 项目进行**IP 聚合&去重&加国家区域标注&加旗帜**，数据来源：[Cmliu优选](https://cf.090227.xyz)，[WeTest](https://www.wetest.vip)，[UOUIN](https://api.uouin.com/cloudflare.html)，[IPDB](https://ipdb.api.030101.xyz)，[VPS789](https://vps789.com/cfip/?remarks=ip)，表示感谢！
 
 ```
@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-collec
 
 ### 独立 API
 
-- **每 3 小时更新，按延迟排序。**
+- **每 6 小时更新，按延迟排序。**
 - **国家区域、旗帜标注。**
 - **选任一档即可，多选重复，没有必要。**  
 
