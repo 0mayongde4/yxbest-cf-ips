@@ -21,6 +21,9 @@
 > - https://agentrouter.org/register?aff=R6aO
 > - https://chat.b.ai/chat?invite_code=65TF6G
 > - https://y-api.bestvirtualgoods.com/i/7N5KJG8Y
+>  
+> **Workbuddy 国际版**，注册即得 100 邀请积分和 250 新人积分。
+> - https://workbuddy.ai/invite?code=7CQMESPP
 
 ## 项目说明
 
